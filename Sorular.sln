@@ -13,15 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_4", "soru_4\soru_4.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_5", "soru_5\soru_5.csproj", "{7F23F969-06B7-458B-97C0-317DBCAE5AEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_6", "soru_6\soru_6.csproj", "{AF4911A1-C425-469D-A4D0-DC0DA73C753C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_6", "soru_6\soru_6.csproj", "{AF4911A1-C425-469D-A4D0-DC0DA73C753C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_7", "soru_7\soru_7.csproj", "{5A431290-EFC2-4FDD-805B-B385512BD30F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_7", "soru_7\soru_7.csproj", "{5A431290-EFC2-4FDD-805B-B385512BD30F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_8", "soru_8\soru_8.csproj", "{E062B861-3589-443F-908D-ACAF3AF2F051}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_8", "soru_8\soru_8.csproj", "{E062B861-3589-443F-908D-ACAF3AF2F051}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_9", "soru_9\soru_9.csproj", "{E39078AC-3B73-4741-8906-05E2E10F7404}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_9", "soru_9\soru_9.csproj", "{E39078AC-3B73-4741-8906-05E2E10F7404}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_10", "soru_10\soru_10.csproj", "{AD1FFC3F-253E-48E4-9A8F-EE52C5BAF944}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_10", "soru_10\soru_10.csproj", "{AD1FFC3F-253E-48E4-9A8F-EE52C5BAF944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringBuilderOrnegi", "stringBuilderOrnegi\stringBuilderOrnegi.csproj", "{DB91D1C7-1131-4553-9828-608BEE827085}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{AD1FFC3F-253E-48E4-9A8F-EE52C5BAF944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD1FFC3F-253E-48E4-9A8F-EE52C5BAF944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD1FFC3F-253E-48E4-9A8F-EE52C5BAF944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB91D1C7-1131-4553-9828-608BEE827085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB91D1C7-1131-4553-9828-608BEE827085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB91D1C7-1131-4553-9828-608BEE827085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB91D1C7-1131-4553-9828-608BEE827085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

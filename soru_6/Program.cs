@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace soru_6
 {
@@ -6,6 +7,9 @@ namespace soru_6
     {
         static void Main(string[] args)
         {
+            
+            
+
             Console.WriteLine("Birinci Sayıyı Giriniz: ");
             int birinciSayi = Convert.ToInt32(Console.ReadLine());
 
