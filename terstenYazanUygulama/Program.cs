@@ -8,6 +8,7 @@ namespace terstenYazanUygulama
         {
             Console.WriteLine("Sayıyı Giriniz: ");
             string sayi =Console.ReadLine();
+
             for (int i = sayi.Length-1; i >= 0; i--)
             {
                 Console.Write(sayi[i]);
