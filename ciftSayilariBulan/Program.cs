@@ -9,10 +9,11 @@ namespace ciftSayilariBulan
             Console.WriteLine("Birinci Sayıyı Giriniz: ");
             int sayi = Convert.ToInt32(Console.ReadLine());
             int bolum = 0;
-            int sonuc =0;
-            for (int i = 0; i <= sayi; i++)
+            int sonuc = 0;
+            for (int i = 0; i < sayi; i++)
             {
-                if (((i / 2) * 2) == i)
+                //if (((i / 2) * 2) == i)
+                if (sayi % 2 == 0)
                     sonuc = sonuc + i;
             }
 

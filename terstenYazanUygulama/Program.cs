@@ -7,8 +7,11 @@ namespace terstenYazanUygulama
         static void Main(string[] args)
         {
             Console.WriteLine("Sayıyı Giriniz: ");
-            int sayi = Convert.ToInt32(Console.ReadLine());
-
+            string sayi =Console.ReadLine();
+            for (int i = sayi.Length-1; i >= 0; i--)
+            {
+                Console.Write(sayi[i]);
+            }
         }
     }
 }
